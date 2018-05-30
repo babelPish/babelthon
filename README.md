@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## 바벨톤 2018
 
-You can use the [editor on GitHub](https://github.com/babelPish/babelthon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+자연어처리 해커톤 ([페이스북 이벤트 링크](https://www.facebook.com/events/232220024209324/))
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+날짜 : 2018.8/25 (토)
+시간 : 2시 - 6시
+장소 : 강남
+주최 : 바벨피쉬 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 스케쥴
 
-### Jekyll Themes
+|시간| 제목  |  발표자  |
+|---|---|---|
+|   | 행사 & [바벨피쉬](https://www.facebook.com/groups/DeepReward/) 소개  | 김무성  |
+|   | (미정)  | 박혜웅  |   
+|   | (미정)  |   |    
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/babelPish/babelthon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 내용
+
